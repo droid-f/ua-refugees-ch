@@ -1,4 +1,5 @@
-﻿Weekday,Date,Registered refugees,Daily reg. refugees,S status granted,Daily S status granted,Accommodated in federal asylum centers,Privately accomodated,Source
+﻿,,Refugees ,,S status,,Accomodation,,
+Weekday,Date,Total registrations,New registrations,Total granted,Newly granted,In federal asylum centers,Private,Source
 Wednesday,2022-03-09,1341,,,,999,315,https://twitter.com/SEMIGRATION/status/1501529689269149701
 Thursday,2022-03-10,1624,283,,,1145,479,https://twitter.com/SEMIGRATION/status/1501856218805157889
 Friday,2022-03-11,2111,487,,,1415,696,https://twitter.com/SEMIGRATION/status/1502236476557434882
@@ -21,3 +22,4 @@ Sunday,2022-03-27,16520,1132,9982,347,,,https://twitter.com/SEMIGRATION/status/1
 Monday,2022-03-28,17204,684,10437,455,,,https://twitter.com/SEMIGRATION/status/1508423221284065280
 Tuesday,2022-03-29,18341,1137,11181,744,,,https://twitter.com/SEMIGRATION/status/1508751577254932486
 Wednesday,2022-03-30,19289,948,11912,731,,,https://twitter.com/SEMIGRATION/status/1509127749599961090
+Thursday,2022-03-31,20569,1280,13447,1535,,,https://twitter.com/SEMIGRATION/status/1509455564945989637
