@@ -1,5 +1,4 @@
-﻿,,Refugees ,,S status,,Accomodation,,
-Weekday,Date,Total registrations,New registrations,Total granted,Newly granted,In federal asylum centers,Private,Source
+﻿Weekday,Date,Total registrations,New registrations,Total granted,Newly granted,In federal asylum centers,Private accomodation,Source
 Wednesday,2022-03-09,1341,,,,999,315,https://twitter.com/SEMIGRATION/status/1501529689269149701
 Thursday,2022-03-10,1624,283,,,1145,479,https://twitter.com/SEMIGRATION/status/1501856218805157889
 Friday,2022-03-11,2111,487,,,1415,696,https://twitter.com/SEMIGRATION/status/1502236476557434882
@@ -11,7 +10,7 @@ Wednesday,2022-03-16,6482,1271,,,3642,2840,https://twitter.com/SEMIGRATION/statu
 Thursday,2022-03-17,7903,1421,,,4239,3664,https://twitter.com/SEMIGRATION/status/1504385649696202764
 Friday,2022-03-18,9059,1156,,,4973,4086,https://twitter.com/SEMIGRATION/status/1504764294885486600
 Saturday,2022-03-19,9826,767,,,5409,4417,https://twitter.com/SEMIGRATION/status/1505143529315655685
-Sunday,2022-03-20,9826,0,,,,,* data not available
+Sunday,2022-03-20,-,-,,,,,data not available
 Monday,2022-03-21,11021,1195,2895,,6915,4106,https://twitter.com/SEMIGRATION/status/1505808385194737664 and https://twitter.com/SEMIGRATION/status/1505870634018082820
 Tuesday,2022-03-22,11876,855,4518,1623,,,https://twitter.com/SEMIGRATION/status/1506268170272886787
 Wednesday,2022-03-23,12750,874,6195,1677,,,https://twitter.com/SEMIGRATION/status/1506576230954459143
@@ -24,3 +23,5 @@ Tuesday,2022-03-29,18341,1137,11181,744,,,https://twitter.com/SEMIGRATION/status
 Wednesday,2022-03-30,19289,948,11912,731,,,https://twitter.com/SEMIGRATION/status/1509127749599961090
 Thursday,2022-03-31,20569,1280,13447,1535,,,https://twitter.com/SEMIGRATION/status/1509455564945989637
 Friday,2022-04-01,21700,1131,15192,1745,,,https://twitter.com/SEMIGRATION/status/1509843558941003779
+Saturday,2022-04-02,-,-,-,-,,,data not available
+Sunday,2022-04-03,22953,1253,16800,1608,,,https://twitter.com/SEMIGRATION/status/1510578544585461763
